@@ -1,1 +1,2 @@
 # vpmrepository
+print('Hello, world!');
